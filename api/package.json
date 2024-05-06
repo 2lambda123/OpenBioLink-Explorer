@@ -7,7 +7,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.4",
+    "axios": "^1.6.8",
     "better-sqlite3": "^7.1.4",
     "node-dev": "^6.7.0"
   }
